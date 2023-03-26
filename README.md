@@ -1,5 +1,5 @@
-# few-shot-Video-Data-Sampling
-This framework is designed to help select the most representative frames of the entire video dataset and minimize the need for annotating all frames. This framework works best if you have a partially annotated video data and you want to select the best representative sample to re-annotate for better model performance.
+# few-shot-Video-Data-Sampling (AICITY 2023-TRACK 5)
+The aim of this framework is to aid in the selection of the most suitable frames from a video dataset, while reducing the requirement to annotate every frame. This framework is most effective when dealing with video data that has already been partially annotated, and where the goal is to identify the most appropriate sample for further annotation to improve the performance of the model.
 
 ## Step 1: Run Proc.Sort_videos()
 This sorts the videos into different time of day 
