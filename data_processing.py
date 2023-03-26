@@ -66,7 +66,6 @@ if __name__ == "__main__":
     height=1080
 
     video_folder='Videos/*'
-    # video_folder='D:/aicity2023_track5_test/aicity2023_track5_test/videos/*'
     anno='gt.txt'
     anno_csv=read_textfile('gt.txt')
 
